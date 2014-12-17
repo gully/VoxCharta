@@ -1,7 +1,7 @@
 VoxCharta
 =========
 
-Web-scrape the [VoxCharta](voxcharta.org) usage statistics.
+Web-scrape the [VoxCharta](http://voxcharta.org) usage statistics.
 
 The usage statistics are available under the `Tools` tab:
 
